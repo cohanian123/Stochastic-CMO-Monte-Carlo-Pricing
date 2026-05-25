@@ -25,5 +25,8 @@ Stochastic-CMO-Monte-Carlo-Pricing/
 └── README.md
 ```
 
+---
+
+*Department of Mathematics, Florida State University — Monte Carlo Methods in Financial Mathematics, April 2026*
 
 
